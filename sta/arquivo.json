@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "SANTA CRUZ CLÁSSICA | SWEAT | NAVY",
+    "desc": "",
+    "price": 29.90,
+    "rrp": 0,
+    "quantity": 12,
+    "img": "/sweat1.png",
+    "type": "sweat"
+  },
+  {
+    "id": 2,
+    "name": "SANTA CRUZ MAGIC LAND ROUND | SWEAT | GREY",
+    "desc": "",
+    "price": 29.90,
+    "rrp": 0,
+    "quantity": 34,
+    "img": "/sweat2.png",
+    "type": "sweat"
+  },
+  {
+    "id": 3,
+    "name": "SANTA CRUZ STA KEEP ON SLIDING JR | SWEAT | GREEN",
+    "desc": "",
+    "price": 29.90,
+    "rrp": 0,
+    "quantity": 13,
+    "img": "/sweat3.png",
+    "type": "sweat"
+  },
+  {
+    "id": 4,
+    "name": "SANTA CRUZ OESTE AGRESTE | CREW | NAVY",
+    "desc": "",
+    "price": 24.90,
+    "rrp": 0,
+    "quantity": 2,
+    "img": "/sweat4.png",
+    "type": "sweat"
+  },
+  {
+    "id": 5,
+    "name": "SANTA CRUZ PENEDO | SWEAT | BEJE",
+    "desc": "",
+    "price": 34.90,
+    "rrp": 0,
+    "quantity": 17,
+    "img": "/sweat5.png",
+    "type": "sweat"
+  },
+  {
+    "id": 6,
+    "name": "SANTA CRUZ CLASSICA | T-SHIRT | GREY",
+    "desc": "",
+    "price": 15.90,
+    "rrp": 0,
+    "quantity": 7,
+    "img": "/tshirt1.png",
+    "type": "tshirt"
+  },
+  {
+    "id": 7,
+    "name": "SANTA CRUZ ELEMENTS FIRE | T-SHIRT | BLACK",
+    "desc": "",
+    "price": 19.90,
+    "rrp": 0,
+    "quantity": 21,
+    "img": "/tshirt2.png",
+    "type": "tshirt"
+  },
+  {
+    "id": 8,
+    "name": "SANTA CRUZ STA QUILHAS | T-SHIRT JUNIOR | NAVY",
+    "desc": "",
+    "price": 15.90,
+    "rrp": 0,
+    "quantity": 12,
+    "img": "/tshirt3.png",
+    "type": "tshirt"
+  },
+  {
+    "id": 9,
+    "name": "SANTA CRUZ MS65 | T-SHIRT | GREY",
+    "desc": "",
+    "price": 19.90,
+    "rrp": 0,
+    "quantity": 35,
+    "img": "/tshirt4.png",
+    "type": "tshirt"
+  },
+  {
+    "id": 10,
+    "name": "SANTA CRUZ PENEDO | T-SHIRT | BLACK",
+    "desc": "",
+    "price": 19.90,
+    "rrp": 0,
+    "quantity": 11,
+    "img": "/tshirt5.png",
+    "type": "tshirt"
+  },
+  {
+    "id": 11,
+    "name": "SANTA CRUZ STA BORDADO FLEXFIT BONÉ | BLACK",
+    "desc": "",
+    "price": 19.90,
+    "rrp": 0,
+    "quantity": 10,
+    "img": "/cap1.png",
+    "type": "cap"
+  },
+  {
+    "id": 12,
+    "name": "SANTA CRUZ STA BORDADO FLEXFIT BONÉ | GREEN",
+    "desc": "",
+    "price": 19.90,
+    "rrp": 0,
+    "quantity": 4,
+    "img": "/cap2.png",
+    "type": "cap"
+  }
+]
