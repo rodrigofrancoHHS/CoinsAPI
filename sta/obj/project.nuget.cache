@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oxZJ5Kl5wIT787ThBNm28hUHrcmbkTPSlSOq3vlKd8yIfAJ3bsCfjh0gcmQIA7u+MAi5g3ObyLVfTZMSYxR01Q==",
+  "dgSpecHash": "0CCGwOlDXVGRn/tolDQFt49OOYmpV0GtkmGSRce+Wlqp5Cv2AcCKqGwf2sk9vfanQ6gVOR7NEAx/dyCoNODbgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utilizador\\Documents\\GitHub\\PapAPI\\sta\\sta.csproj",
+  "projectFilePath": "C:\\Users\\Utilizador\\Documents\\GitHub\\CoinsAPI\\sta\\sta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utilizador\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Utilizador\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

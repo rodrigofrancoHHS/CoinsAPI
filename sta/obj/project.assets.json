@@ -4431,11 +4431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utilizador\\Documents\\GitHub\\PapAPI\\sta\\sta.csproj",
+      "projectUniqueName": "C:\\Users\\Utilizador\\Documents\\GitHub\\CoinsAPI\\sta\\sta.csproj",
       "projectName": "sta",
-      "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\PapAPI\\sta\\sta.csproj",
+      "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\CoinsAPI\\sta\\sta.csproj",
       "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\PapAPI\\sta\\obj\\",
+      "outputPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\CoinsAPI\\sta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",

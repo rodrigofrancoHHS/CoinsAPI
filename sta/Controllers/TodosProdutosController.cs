@@ -22,7 +22,8 @@ namespace sta.Controllers
         }
 
 
-        string connectionString = "Server=localhost;Port=3306;Database=sta;Uid=root;";
+        string connectionString = "Server=mysql-coinsproject.alwaysdata.net;Port=3306;Database=coinsproject_ricardo;Uid=326408_ricardo;Pwd=Rjgamer31;";
+
 
         // GET: api/TodoItems
         [HttpGet("ListadeProdutos")]
